@@ -2,12 +2,14 @@
 
 - **DESCRIPTION -** The main purpose behind this project is to create a model that would effectively categorize entities within a given texts into specific predefined categories. This process makes it valuable for various applications like information extraction, sentiment analysis and text understanding.
 
+
   
 
 - **PREREQUISITES-**
   1) Python
   2) Google Colab
  
+
      
 
 - **LIBRARIES USED -**
@@ -16,6 +18,8 @@
   3) Pytorch - an open-source deep learning framework that helps in named entity recognition (NER), data loading, model architecture, training and optimization, model evaluation.
  
 These python based libraries are used for processing and feature extraction.
+
+
 
 
 - **MODEL DESIGN -** The steps involved in the designing of this model are:
@@ -32,11 +36,19 @@ These python based libraries are used for processing and feature extraction.
   The model is trained on labelled data where each entity in the text is annotated with its corresponding type.
 
 
+
+
 - **DOMAIN -** Machine Learning and Natural Language Processing
+
+
  
 
 
 - **PROJECT TYPE -** Individual
+
+
+
+
 
 
 
